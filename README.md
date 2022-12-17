@@ -17,3 +17,4 @@ The languages used were the following:
 | 7   | To Be Completed |
 | 8   | D               |
 | 9   | Scala           |
+| 10  | Lua             |
