@@ -1,0 +1,22 @@
+package main
+
+import (
+    "bufio"
+    "fmt"
+    "io"
+    "os"
+)
+
+type operator func(int)
+
+type monkey struct {
+    items []int
+    op operator
+    test int
+}
+
+func readInput() {
+}
+
+func main() {
+}
