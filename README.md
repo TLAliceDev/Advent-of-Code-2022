@@ -18,3 +18,4 @@ The languages used were the following:
 | 8   | D               |
 | 9   | Scala           |
 | 10  | Lua             |
+| 11  | Go              |
